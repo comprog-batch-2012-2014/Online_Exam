@@ -1,0 +1,10 @@
+.navbar-inner{
+	background-color: rgb(118, 235, 245);
+	background-image: none;
+	height: 90px;
+}
+
+input[type="radio"]{
+	width: 2em;
+	height: 3em;
+}
